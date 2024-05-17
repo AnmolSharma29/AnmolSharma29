@@ -58,6 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AnmolSharma29/AnmolSharma29/output/snake.svg" alt="Snake animation" />
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#141321" stroke-opacity="0"/>
 
 ###
